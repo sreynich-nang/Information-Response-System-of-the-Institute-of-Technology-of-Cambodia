@@ -1,0 +1,59 @@
+{
+  "documents": {
+    "77077866-e11d-4406-896f-c9907b5c261c": {
+      "filename": "output_v2_v1.txt",
+      "document_id": "77077866-e11d-4406-896f-c9907b5c261c",
+      "original_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\uploaded\\output_v2_v1.txt",
+      "processed_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\processed\\77077866-e11d-4406-896f-c9907b5c261c.txt",
+      "file_hash": "e302469ddda67235accdeb2195a47a3d",
+      "document_type": "txt",
+      "last_modified": 1749008690.23565,
+      "embedding_status": "embedded",
+      "chunks": 471
+    },
+    "23ba6189-283e-47d1-8a05-be85ef3f4d07": {
+      "filename": "Business Analyst.pdf",
+      "document_id": "23ba6189-283e-47d1-8a05-be85ef3f4d07",
+      "original_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\uploaded\\Business Analyst.pdf",
+      "processed_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\processed\\23ba6189-283e-47d1-8a05-be85ef3f4d07.txt",
+      "file_hash": "8d73f4b6642c58d160e4fba03e3e7bca",
+      "document_type": "pdf",
+      "last_modified": 1749360710.608712,
+      "embedding_status": "embedded",
+      "chunks": 5
+    },
+    "cde380f7-4387-4ac2-b777-7eb8c52777cb": {
+      "filename": "DS.txt",
+      "document_id": "cde380f7-4387-4ac2-b777-7eb8c52777cb",
+      "original_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\uploaded\\DS.txt",
+      "processed_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\processed\\cde380f7-4387-4ac2-b777-7eb8c52777cb.txt",
+      "file_hash": "3630a1f8f0c03193a6db0a65ed49ecde",
+      "document_type": "txt",
+      "last_modified": 1749362039.818896,
+      "embedding_status": "embedded",
+      "chunks": 5
+    },
+    "8b172f5c-ea73-4560-89c2-446b9fc7789a": {
+      "filename": "AMS_department.txt",
+      "document_id": "8b172f5c-ea73-4560-89c2-446b9fc7789a",
+      "original_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\uploaded\\AMS_department.txt",
+      "processed_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy\\backend\\data\\processed\\8b172f5c-ea73-4560-89c2-446b9fc7789a.txt",
+      "file_hash": "852d736e1bd4f3f5abc32a2d7355198f",
+      "document_type": "txt",
+      "last_modified": 1749376006.374313,
+      "embedding_status": "embedded",
+      "chunks": 14
+    },
+    "8544d829-7307-49d6-b4da-67472498dd36": {
+      "filename": "Data Science.pdf",
+      "document_id": "8544d829-7307-49d6-b4da-67472498dd36",
+      "original_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy - Copy\\backend\\data\\uploaded\\Data Science.pdf",
+      "processed_path": "D:\\OneDrive - itc.edu.kh\\Documents\\BachelorDegree\\Chatbot - thesis\\development\\phase3_modelling\\RAG with dynamic upload from Admin\\version5 - Copy - Copy - Copy - Copy\\backend\\data\\processed\\8544d829-7307-49d6-b4da-67472498dd36.txt",
+      "file_hash": "85f4c827fd76f5480e23ba38ae409a71",
+      "document_type": "pdf",
+      "last_modified": 1751443838.917049,
+      "embedding_status": "embedded",
+      "chunks": 5
+    }
+  }
+}

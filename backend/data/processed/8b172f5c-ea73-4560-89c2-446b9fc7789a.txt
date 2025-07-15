@@ -1,0 +1,267 @@
+
+
+## DEPARTMENT OF APPLIED MATHEMATICS AND STATISTICS (AMS) – ITC
+
+The AMS department at ITC focuses on equipping students with strong foundations in **mathematics, statistics, computer science, and applied research skills**. It aims to prepare professionals who can work in **data science, finance, economics, research, engineering, and other analytical fields**.
+
+
+Year | Semester | Course Code | Course Name | Credit | Lecture | Tutorial (TD) | Practice (TP) | Total hours
+Y1 | S1 | DTCI11ANL | Calculus I | 3 | 2 | 1 | 0 | 64
+Y1 | S1 | DTCI11MCN | Mechanics I | 3 | 2 | 0.75 | 0.25 | 64
+Y1 | S1 | DTCI11GEC | Management and Accounting | 3 | 3 | 0 | 0 | 48
+Y1 | S1 | DTCI11PHI | Philosophy | 2 | 2 | 0 | 0 | 32
+Y1 | S1 | DTCI11ENV | Environment | 2 | 2 | 0 | 0 | 32
+Y1 | S1 | DTCI11FRA | French | 3 | 0 | 0 | 3 | 96
+Total Semester 1 (Year 1) | 16 | 11 | 1.75 | 3.25 | 336
+
+Y1 | S2 | DTCI12INF | Introduction to ICT | 2 | 1 | 0 | 1 | 48
+Y1 | S2 | DTCI12ANL | Calculus II | 3 | 2 | 1 | 0 | 64
+Y1 | S2 | DTCI12TMD | Thermodynamics | 3 | 2 | 0.75 | 0.25 | 64
+Y1 | S2 | DTCI12MKT | Marketing | 2 | 2 | 0 | 0 | 32
+Y1 | S2 | DTCI12DTN | Technical Drawing | 2 | 1 | 1 | 0 | 48
+Y1 | S2 | DTCI12HIS | History | 2 | 2 | 0 | 0 | 32
+Y1 | S2 | DTCI12FRA | French | 3 | 0 | 0 | 3 | 96
+Total Semester 2 (Year 1) | 17 | 10 | 2.75 | 4.25 | 384
+
+Total Year 1 | 33 | 21 | 4.5 | 7.5 | 720
+
+Y2 | S1 | DTCI21ELE | Electricity | 3 | 2 | 0.75 | 0.25 | 64
+Y2 | S1 | DTCI21ANL | Calculus III | 2.25 | 1.5 | 0.75 | 0 | 48
+Y2 | S1 | DTCI21DSP | Data Structure and Programming I | 3 | 2 | 0 | 1 | 64
+Y2 | S1 | DTCI21ALG | Linear Algebra | 2.25 | 1.5 | 0.75 | 0 | 48
+Y2 | S1 | DTCI21ANG | English | 2 | 0 | 0 | 2 | 64
+Y2 | S1 | DTCI21FRA | French | 3 | 0 | 0 | 3 | 96
+Total Semester 1 (Year 2) | 15.5 | 7 | 2.25 | 6.25 | 384
+
+Y2 | S2 | DTCI22PRO | Probability | 3 | 2 | 1 | 0 | 64
+Y2 | S2 | DTCI22EQD | Differential Equations | 1.5 | 1 | 0.5 | 0 | 32
+Y2 | S2 | DTCI21DSP | Data Structure and Programming II | 3 | 2 | 0 | 1 | 64
+Y2 | S2 | DTCI22ACO | Computer Architecture | 3 | 2 | 0 | 1 | 64
+Y2 | S2 | DTCI22ANG | English | 3 | 0 | 0 | 3 | 96
+Y2 | S2 | DTCI22FRA | French | 2 | 0 | 0 | 2 | 64
+Total Semester 2 (Year 2) | 15.5 | 7 | 1.5 | 7 | 384
+
+Total Year 2 | 31 | 14 | 3.75 | 13.25 | 768
+
+Y3 | S1 | AMSI31STA | Statistics | 2 | 1 | 1 | 0 | 48
+Y3 | S1 | AMSI31OOP | Object-Oriented Programming | 2 | 1 | 0 | 1 | 48
+Y3 | S1 | AMSI31MAM | Mathematical Modeling | 2 | 1 | 1 | 0 | 48
+Y3 | S1 | AMSI31IDS | Introduction to Data Science | 2 | 1 | 0 | 1 | 48
+Y3 | S1 | AMSI31DIS | Discrete Mathematics | 2 | 2 | 0 | 0 | 32
+Y3 | S1 | AMSI31OPT | Optimization | 3 | 2 | 1 | 0 | 64
+Y3 | S1 | AMSI31FRA | French | 2 | 0 | 0 | 2 | 64
+Y3 | S1 | AMSI31ANG | English | 1 | 0 | 0 | 1 | 32
+Total Semester 1 (Year 3) | 17 | 10 | 3 | 4 | 384
+
+Y3 | S2 | AMSI32NUM | Numerical Analysis | 3 | 2 | 0 | 1 | 64
+Y3 | S2 | AMSI32IML | Introduction to Machine Learning | 3 | 2 | 0 | 1 | 64
+Y3 | S2 | AMSI32DAT | Database | 2 | 1 | 0.5 | 0.5 | 48
+Y3 | S2 | AMSI32PDS | Computer Programming in Data Science | 2 | 1 | 0 | 1 | 48
+Y3 | S2 | AMSI32INN | Introduction to Networks | 2 | 2 | 0 | 0 | 32
+Y3 | S2 | AMSI32MPR | Minor project | 1 | 0 | 0 | 1 | 32
+Y3 | S2 | AMSI32FRA | French | 1 | 0 | 0 | 1 | 32
+Y3 | S2 | AMSI32ANG | English | 2 | 0 | 0 | 2 | 64
+Total Semester 2 (Year 3) | 16 | 8 | 0.5 | 7.5 | 384
+
+Total Year 3 | 33 | 18 | 3.5 | 11.5 | 768
+
+Y4 | S1 | AMSI42GTH | Graph Theory | 3 | 2 | 0 | 1 | 64
+Y4 | S1 | AMSI41AIN | Artificial Intelligence | 3 | 2 | 0 | 1 | 64
+Y4 | S1 | AMSI41STM | Statistical Models/Regression Analysis | 3 | 2 | 0 | 1 | 64
+Y4 | S1 | AMSI41EDP | Ethics and Data Privacy | 3 | 2 | 0 | 1 | 64
+Y4 | S1 | AMSI41OSY | Operating Systems | 3 | 2 | 0.5 | 0.5 | 64
+Y4 | S1 | AMSI41FRA | French | 1 | 0 | 0 | 1 | 32
+Y4 | S1 | AMSI41ANG | English | 1 | 0 | 0 | 1 | 32
+Total Semester 1 (Year 4) | 17 | 10 | 0.5 | 6.5 | 384
+
+Y4 | S2 | AMSI41ECO | Economics for Engineers | 2 | 2 | 0 | 0 | 32
+Y4 | S2 | AMSI42IPD | Introduction to Parallel and Distributed Programming | 3 | 2 | 0 | 1 | 64
+Y4 | S2 | AMSI42PGM | Probabilistic Graphical Models | 3 | 2 | 0.5 | 0.5 | 64
+Y4 | S2 | AMSI52DVI | Data Visualization | 3 | 2 | 0 | 1 | 64
+Y4 | S2 | AMSI42LDS | Large-scale Distributed System (Cloud Computing) | 2.5 | 2 | 0 | 0.5 | 48
+Y4 | S2 | AMSI42DDA | Database Design and Administration | 2.5 | 2 | 0 | 0.5 | 48
+Y4 | S2 | AMSI42INT | Major Project (or Internship) | 3 | 0 | 0 | 0 | 0
+Y4 | S2 | AMSI42FRA | French | 1 | 0 | 0 | 1 | 32
+Y4 | S2 | AMSI42ANG | English | 1 | 0 | 0 | 1 | 32
+Total Semester 2 (Year 4) | 21 | 12 | 0.5 | 5.5 | 384
+
+Total Year 4 | 38 | 22 | 1 | 12 | 768
+
+Y5 | S1 | AMSI51PMA | Project Management | 2 | 2 | 0 | 0 | 32
+Y5 | S1 | AMSI51PDS | Programming for Data Science | 3 | 2 | 0 | 1 | 64
+Y5 | S1 | AMSI51IRW | Information Retrieval Web Analytics | 3 | 2 | 0 | 1 | 64
+Y5 | S1 | AMSI51EDA | Exploratory Data Analysis and Unsupervised Learning | 2 | 1 | 0.5 | 0.5 | 48
+Y5 | S1 | AMSI42TSA | Time Series Analysis and Forecasting | 3 | 2 | 0.5 | 0.5 | 64
+Y5 | S1 | AMSI51NLP | Natural Language Processing | 3 | 3 | 0 | 0 | 48
+Y5 | S1 | AMSI51FRA | French | 1 | 0 | 0 | 1 | 32
+Y5 | S1 | AMSI51ANG | English | 1 | 0 | 0 | 1 | 32
+Total Semester 1 (Year 5) | 18 | 12 | 1 | 5 | 384
+
+Y5 | S2 | AMSI52FYI | Final Year Internship | 9 | 0 | 0 | 0 | 0
+Total Semester 2 (Year 5) | 9 | 0 | 0 | 0 | 0
+
+Total Year 5 | 27 | 12 | 1 | 5 | 384
+
+Final Total | 162 Credits | 87 Lecture | 13.75 Tutorial | 49.25 Practice | 3408 Hours
+
+## Year-by-Year Curriculum Overview
+
+### **Year 1: Foundation Year (Preparatory Program)**
+
+* Common to all ITC students.
+* Goal: Build a strong foundation in science, mathematics, and language.
+
+#### Core Subjects:
+
+* Mathematics (Algebra, Calculus)
+* Physics
+* Chemistry
+* Computer Basics
+* English and French
+* Engineering Drawing
+
+*Assessment: Exams, quizzes, lab reports, and presentations*
+
+
+### **Year 2: Introduction to Mathematical Tools**
+
+* You begin focusing on math and its applications.
+
+#### Main Courses:
+
+* Linear Algebra
+* Calculus II
+* Discrete Mathematics
+* Probability and Statistics
+* Programming (C/C++)
+* Introduction to Logic
+* Mathematical Modeling
+
+*Focus: Analytical thinking, logic, and programming fundamentals*
+
+
+### **Year 3: Core Applied Mathematics and Statistics**
+
+* Deepens both theoretical and practical skills.
+
+#### Courses:
+
+* Ordinary Differential Equations
+* Numerical Analysis
+* Linear Programming and Optimization
+* Advanced Statistics
+* Database Systems
+* Probability Theory
+* Python or R for data analysis
+
+*Projects: Start using tools like Excel, Python, and R in projects*
+
+
+### **Year 4: Specialization in Applied Mathematics**
+
+* Focus shifts to applications in real-world data and research.
+
+#### Courses:
+
+* Stochastic Processes
+* Operations Research
+* Econometrics
+* Time Series Analysis
+* Machine Learning (basic)
+* Simulation and Modeling
+* Research Methodology
+
+*Mini Research Project / Internship*
+
+
+### **Year 5: Research & Graduation Project**
+
+* Focused on independent research and a capstone project.
+
+#### Activities:
+
+* Final Thesis (under supervision)
+* Specialized courses based on project field (Data Science, Financial Math, AI, etc.)
+* Internship in companies or research institutions
+* Scientific writing and presentation skills
+
+*Output: Final thesis document + defense*
+
+
+## MASTER'S DEGREE PROGRAM (2 Years)
+
+Typically offered after Year 5 or for external applicants holding a Bachelor’s degree in a relevant field.
+
+### Two Main Paths:
+
+1. **Applied Mathematics**
+2. **Statistics and Data Science**
+
+#### Year 1:
+
+* Advanced Mathematical Modeling
+* Advanced Statistics
+* Machine Learning
+* Scientific Computing
+* Data Mining
+* Electives based on research interest
+
+#### Year 2:
+
+* Full research + Thesis
+* Option for internship in private sector or NGOs
+* Conference participation
+
+*Language: Courses taught in French or English depending on the program.*
+
+
+## HOW TO PREPARE DOCUMENTATION FOR SCHOLARSHIPS
+
+### 1. **Academic Transcripts**
+
+* From Year 1 to current/latest year.
+* Certified and translated (if necessary).
+* GPA calculation sheet may be required.
+
+### 2. **Degree Certificates**
+
+* High School Certificate (Bac II)
+* Bachelor’s Certificate (if applying for Master)
+* Certified and translated.
+
+### 3. **Motivation Letter**
+
+* Address to the scholarship committee.
+* Mention your goals, interest in AMS, career aspirations.
+* Be personal and professional.
+
+### 4. **Curriculum Vitae (CV)**
+
+* Include: Education, internships, languages, tech skills, volunteer work, extracurriculars.
+
+### 5. **Recommendation Letters**
+
+* At least 2 letters from professors or research supervisors.
+* Should highlight academic strengths and research potential.
+
+### 6. **Language Proficiency Proof**
+
+* French: DELF/DALF (if scholarship requires)
+* English: IELTS/TOEFL (for international programs)
+* Khmer: (if required by local scholarships)
+
+### 7. **Other Documents (if applicable)**
+
+* National ID or passport
+* Proof of income (for need-based scholarships)
+* Research proposal (for Master’s level)
+* Certificate of Internship/Volunteering
+* Scholarship-specific forms (from donors or embassies)
+
+
+## Scholarship Preparation Tips
+
+* Start **preparing documents early** (ideally 3-6 months before deadline).
+* Attend **ITC scholarship info sessions** or contact **Direction des Relations Internationales (DRI)**.
+* Regularly check the **AMS department or ITC website** and **embassy announcements** for opportunities.
+* Apply for **both local and international scholarships** (e.g., AUF, Erasmus+, ARES, JICA, KOICA, Chevening, etc.)
