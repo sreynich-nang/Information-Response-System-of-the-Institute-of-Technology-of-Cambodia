@@ -13,7 +13,7 @@ Evaluation metrics including MRR\@3, MAP, Recall\@3, ROUGE-L, and Cosine Similar
 ---
 
 Video Demonstration
-[![Watch the video](https://youtu.be/95tpGkvzptM)
+[Watch the video](https://youtu.be/95tpGkvzptM)
 
 ---
 
