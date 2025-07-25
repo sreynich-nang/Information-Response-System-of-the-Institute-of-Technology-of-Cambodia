@@ -1,6 +1,6 @@
 ---
 
-# AI-Powered Academic & Career Guidance Chatbot
+# AI-Powered Academic Information Chatbot
 
 ## Project Overview
 
