@@ -12,6 +12,11 @@ Evaluation metrics including MRR\@3, MAP, Recall\@3, ROUGE-L, and Cosine Similar
 
 ---
 
+Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/95tpGkvzptM))
+
+---
+
 ## Executive Summary
 
 This project delivers a cutting-edge AI chatbot system powered by Retrieval-Augmented Generation (RAG), combining large language models (LLMs) with an external, dynamically updated knowledge base to answer user queries with contextual accuracy.
